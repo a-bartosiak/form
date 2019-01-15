@@ -128,7 +128,7 @@ h3 {
   src: url("../../fonts/Adelle_Bold.otf") format("otf"); }
 
 .modal {
-  background-image: url("../../images/Rectangle.png"), url("../../images/#HERO.png");
+  background-image: url("../images/Rectangle.png"), url("../images/#HERO.png");
   background-position: center;
   background-size: cover;
   display: none;
@@ -1003,18 +1003,18 @@ h3 {
 
 header {
   height: 100vh;
-  background-image: url("../../images/header-lg-monitor.png");
+  background-image: url("../images/header-lg-monitor.png");
   background-position: center;
   background-size: cover; }
   @media all and (max-width: 1199px) {
     header {
-      background-image: url("../../images/header-small-monitor.png"); } }
+      background-image: url("../images/header-small-monitor.png"); } }
   @media all and (max-width: 768px) {
     header {
-      background-image: url("../../images/header-tablet.png"); } }
+      background-image: url("../images/header-tablet.png"); } }
   @media all and (max-width: 575px) {
     header {
-      background-image: url("../../images/header-mobile.png"); } }
+      background-image: url("../images/header-mobile.png"); } }
 
 header .logo {
   height: 28em;
@@ -1046,18 +1046,18 @@ header .logo {
 
 #main-section {
   min-height: 200vh;
-  background-image: url("../../images/BackgroundBottom-lg-monitor.png");
+  background-image: url("../images/BackgroundBottom-lg-monitor.png");
   background-position: center;
   background-size: cover; }
   @media all and (max-width: 1199px) {
     #main-section {
-      background-image: url("../../images/BackgroundBottom-small-monitor.png"); } }
+      background-image: url("../images/BackgroundBottom-small-monitor.png"); } }
   @media all and (max-width: 768px) {
     #main-section {
-      background-image: url("../../images/BackgroundBottom-tablet.png"); } }
+      background-image: url("../images/BackgroundBottom-tablet.png"); } }
   @media all and (max-width: 575px) {
     #main-section {
-      background-image: url("../../images/BackgroundBottom-mobile.png"); } }
+      background-image: url("../images/BackgroundBottom-mobile.png"); } }
 
 .more-info {
   min-height: 100vh; }
